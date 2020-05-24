@@ -14,6 +14,8 @@
 # 62 + 82 = 100
 # 12 + 02 + 02 = 1
 
+from typing import List
+
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:

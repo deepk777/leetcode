@@ -1,9 +1,7 @@
 # Group Anagrams
-# Solution
 # Given an array of strings, group anagrams together.
 
 # Example:
-
 # Input: ["eat", "tea", "tan", "ate", "nat", "bat"],
 # Output:
 # [
@@ -17,6 +15,7 @@
 # The order of your output does not matter.
 
 import collections
+from typing import List
 
 
 class Solution:
